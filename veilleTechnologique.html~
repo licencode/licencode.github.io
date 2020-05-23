@@ -23,10 +23,10 @@
     <ul id="p7PMnav">
       <li><a href="index.html">Accueil</a></li>
       <li><a href="stage.html">Missions de Stage</a></li>
-      <li><a href="#">Projets en cours</a></li>
+      <li><a href="ProjetsEnCours.html">Projets en cours</a></li>
       <li><a href="veilleTechnologique.html">Veille technologique</a></li>
-      <li><a href="#">CV</a></li>
-      <li><a href="#">Contact</a></li>
+      <li><a href="cv.html">CV</a></li>
+      <li><a href="contact.html">Contact</a></li>
       <!--[if lte IE 6
           ]><style>
             #p7PMnav a {
@@ -96,9 +96,9 @@
         <a href="img/veille/histoire/buran.jpg" target="_blank"><img src="img/veille/histoire/buran.jpg" width="400" height="267" alt="Le programme de vaisseau spatial réutilisable soviétique Bourane"></a>
         <figcaption>Le programme de vaisseau spatial réutilisable soviétique Bourane</figcaption>
 
-       <p> ДРАКОН был разработан из-за человеческого фактора, что бы избежать излишний штаб программистов и исключить не
-        допонимание между инженеров и программсотв. При помощи языка ДРАКАН инжинеры могли самостоятельно создовать
-        алгоритмы и запускать программы не обращаясь к помощи программистов. Таким образом алгоротмы должны были
+       <p> ДРАКОН был разработан из-за человеческого фактора, что бы избежать излишний штаб программистов и исключить недопонимание
+        между инженерами и программистами. При помощи языка ДРАКОН инженеры могли самостоятельно создавать
+        алгоритмы и запускать программы не обращаясь к помощи программистов. Таким образом алгоритмы должны были
         получаться более стабильными и понятными.</p>
 
         <p>Ce système de conception assistée est utilisé depuis 1996 pour de nombreux grands programmes spatiaux : un
@@ -107,7 +107,7 @@
 
       <p><a name="Methodologie"></a></p>
       <H2>Méthodologie de la recherche sur DRAKON</H2>
-      <p>Hello World</p>
+      <p>Как упоминалось </p>
 
       <p><a name="AvantagesInconvenients"></a></p>
       <H2>Les avantages et les inconvénients du langage algorithmique DRAKON</H2>
@@ -122,7 +122,6 @@
         la navigation à l'intérieur de la source code.</p>
       <H3>Les inconvénients</H3>
       <p>Hello World</p>
-
 
       <p><a name="Conclusion"></a></p>
       <H2>Conclusion. Quelles sont les perspectives de DRAKON au 21ème siècle et dans quels
