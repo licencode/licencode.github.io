@@ -67,11 +67,9 @@ p {
 }
 
 ul {
-  font-size: 1em;
+
   color: #333333;
-  background: transparent;
-  padding: 2px 10px 10px 2px;
-  line-height: 1.5em;
+
 }
 
 h1,
