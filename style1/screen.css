@@ -411,39 +411,11 @@ figcaption {
 	padding: 3px 0 3px 0;
 	border: none;
 } */
-/*
+
 table {
   margin-bottom: 10px;
 }
-*/
-table {
-  table-layout: fixed;
-  width: 100%;
-  border-collapse: collapse;
-  /*border: 3px solid purple;*/
-}
 
-thead th:nth-child(1) {
-  width: 30%;
-}
-
-thead th:nth-child(2) {
-  width: 20%;
-}
-
-thead th:nth-child(3) {
-  width: 15%;
-}
-
-thead th:nth-child(4) {
-  width: 35%;
-}
-
-th, td {
-  padding: 20px;
-}
-
-/*End table*/
 blockquote {
   background: url(template-images/quotes.gif) no-repeat top left;
   margin: 15px 30px 10px 10px;
